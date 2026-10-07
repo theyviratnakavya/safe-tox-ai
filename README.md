@@ -84,3 +84,4 @@ Entry is granted only when:
 The current demonstration version uses predefined safety thresholds.
 
 | Risk | Descrip
+Live demo : https://safe-tox-ai-m3zhpdlf46k3k9oxub6bwn.streamlit.app/
